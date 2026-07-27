@@ -94,3 +94,15 @@ To review the codebase, verify the architecture, or run the project locally on a
    Open your terminal and download the project files:
    ```bash
    git clone [https://github.com/zainsandhu001/lahore-smart-transit-guide.git](https://github.com/zainsandhu001/lahore-smart-transit-guide.git)
+
+## 📸 Application Screenshots
+
+### 1. Main Search Interface
+![Main Interface](Screenshot_20260722-101312.png)
+
+### 2. Destination Input & Route Calculation
+![Route Search](Screenshot_20260722-101319.png)
+
+### 3. Detailed Route Results & Fare Breakdown
+![Fare and Route Details](Screenshot_20260722-101323.png)
+   
